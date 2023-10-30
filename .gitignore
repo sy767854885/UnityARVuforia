@@ -1,0 +1,6 @@
+.vsconfig
+Library/
+Logs/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+UnityARVuforia.sln
